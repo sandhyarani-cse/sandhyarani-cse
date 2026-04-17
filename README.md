@@ -56,6 +56,8 @@ Android-based application for scheduling tasks and notifications.
 
 Secure login and registration system for web applications.
 
+---
+
 📫 Contact Me
 
 📧 sandhyaranidigge@gmail.com
