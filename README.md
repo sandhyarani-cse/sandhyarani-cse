@@ -40,9 +40,9 @@ Database
 
 📂 Featured Projects
 
-🔐 Cloud Intrusion Detection System (ML)
+🔐 Cloud-Based Data Intrusion Detection System Using ML Techniques
 
-Machine learning-based system to detect malicious attacks in network traffic.
+Machine learning system to detect malicious network activity using NSL-KDD dataset.
 
 🍽️ Online Restaurant Management System
 
