@@ -58,7 +58,7 @@ Machine learning system to detect and classify malicious network activity.
 ### 🍽️ Online Restaurant Management System
 `PHP` `MySQL` `HTML` `CSS` `JavaScript` `XAMPP`
 
-Full-stack web application for managing restaurant operations end-to-end.
+Database-driven web application for managing restaurant operations end-to-end.
 - Built user authentication, menu management, cart operations, and order processing
 - Designed a normalized MySQL database for menu, category, and order management
 - Developed an **admin dashboard** and a **customer portal** for browsing and placing orders
@@ -78,9 +78,6 @@ Secure authentication system for web applications.
 🔗 [GitHub Repository](https://github.com/sandhyarani-cse/user-registration-login)
 
 ---
-
-### 📱 Reminder Application
-Android-based application for scheduling tasks and notifications.
 
 ---
 
