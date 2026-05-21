@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Eng. in Computer Science & Engineering from **Visvesvaraya Technological University, Belagavi** (CGPA: 7.74)
+- 🎓 B.Eng. in Computer Science & Engineering from **Guru Nanak Dev Engineering College, Bidar** (CGPA: 7.74)
 - 📄 Published researcher — *"Cloud-Based Data Intrusion Detection System Using ML Techniques"* in **IJSREM, May 2024**
 - 🏆 Built an ML model achieving **99.16% detection accuracy** using Random Forest on the NSL-KDD dataset
 - 🤖 Interned in **AI & High-Performance Computing** at Edulateral Foundation × Intel Software
