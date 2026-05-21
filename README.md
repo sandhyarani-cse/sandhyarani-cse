@@ -51,7 +51,7 @@ Machine learning system to detect and classify malicious network activity.
 - Achieved **99.16% detection accuracy** using Random Forest, outperforming other tested models
 - Covered full pipeline: data preprocessing, model training, and attack classification
 
-🔗 [GitHub Repository](https://github.com/sandhyarani-cse/intrusion-detection-system) &nbsp;|&nbsp; 📄 [Published Paper – IJSREM, May 2024](https://ijsrem.com)
+🔗 [GitHub Repository](https://github.com/sandhyarani-cse/intrusion-detection-system) &nbsp;|&nbsp;
 
 ---
 
